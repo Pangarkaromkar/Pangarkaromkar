@@ -79,34 +79,34 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=pangarkaromkar&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Pangarkaromkar's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pangarkaromkar&theme=highcontrast&hide_border=true" alt="Pangarkaromkar's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Pangarkaromkar/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pangarkaromkar&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Pangarkaromkar/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pangarkaromkar&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
+        <a href="https://github.com/Pangarkaromkar/moviedjangoai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Pangarkaromkar/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pangarkaromkar&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -114,8 +114,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+<a href="https://github.com/Pangarkaromkar">
+    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="Pangarkaromkar's GitHub Contribution Chart">
 </a>
 
 
@@ -133,19 +133,19 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 
-### RAFIKSHA/README.md activity
+### Pangarkaromkar/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
+<!-- [![Forkers repo roster for @Pangarkaromkar/Pangarkaromkar](https://reporoster.com/forks/dark/Pangarkaromkar/Pangarkaromkar)](https://github.com/Pangarkaromkar/Pangarkaromkar/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/Pangarkaromkar/Pangarkaromkar)](https://github.com/Pangarkaromkar/Pangarkaromkar)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Pangarkaromkar&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#Pangarkaromkar/Pangarkaromkar&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Pangarkaromkar/Pangarkaromkar&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pangarkaromkar&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -169,7 +169,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/pangarkar_omkar/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:omkarpangarkar62@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=omkarpangarkar62@gmail.co&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
