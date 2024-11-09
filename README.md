@@ -56,23 +56,23 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Pangarkaromkar&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pangarkaromkar&custom_title=Pangarkaromkar's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pangarkaromkar&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pangarkaromkar&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pangarkaromkar&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <td>
         <a href="https://github.com/Pangarkaromkar/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pangarkaromkar&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
@@ -115,7 +115,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 ### GitHub Contribution Chart
 <a href="https://github.com/Pangarkaromkar">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="Pangarkaromkar's GitHub Contribution Chart">
+    <img src="https://ghchart.rshah.org/Pangarkaromkar" alt="Pangarkaromkar's GitHub Contribution Chart">
 </a>
 
 
@@ -126,9 +126,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/Pangarkaromkar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/Pangarkaromkar?theme=dark" alt="Pangarkaromkar's GitHub Stats">
 </details>
 
 <br>
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/Pangarkaromkar2272?border=0&radius=20"/>
 </p>
 
 
